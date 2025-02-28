@@ -6,13 +6,43 @@ public class week4 {
         // More students will add their method calls here...
         //lastname.display();
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+
+        Soriano.display();
+
+
+
+       Diaz.display();
+>>>>>>> upstream/main
        
-     Conde.display();
+
+      Conde.display();
+
        
+<<<<<<< HEAD
 =======
          
        Saren.display();
             
+>>>>>>> upstream/main
+=======
+
+
+         
+
+       Saren.display();
+       limbang.display();
+
+
+       Mapula.display();
+
+       Villoso.display();
+
+
+            
+
+
 >>>>>>> upstream/main
     }
 }
