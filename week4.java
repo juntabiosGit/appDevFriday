@@ -5,8 +5,14 @@ public class week4 {
         // Call each student's method
         // More students will add their method calls here...
         //lastname.display();
+<<<<<<< HEAD
        
      Conde.display();
        
+=======
+         
+       Saren.display();
+            
+>>>>>>> upstream/main
     }
 }
