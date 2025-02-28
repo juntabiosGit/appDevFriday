@@ -14,7 +14,7 @@ public class Activity1 {
         System.out.println("NEIL JOHN DIAZ - BSIT 2I");
         System.out.println("MARC JOSH MARAVILLA - BSIT-2J");
         System.out.println("LHEIAN V. SAREN - BSIT-2J");
-
+        System.out.println("KYLO D. PALALAY - BSIT 2J");
         System.out.println("VILLOSO JOMERSON M. - BSIT-2J");
         System.out.println("DARRYL YAM C. CANDILADA - BSIT-2I");
         System.out.println("MHEL ANDREA G. VALDEZ - BSIT-2I");
