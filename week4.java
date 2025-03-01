@@ -58,6 +58,7 @@ public class week4 {
             
 
        Magusib.display();
+       Apolonio.display();
 
 
 
