@@ -59,7 +59,7 @@ public class week4 {
 
        Magusib.display();
 
-
+       Conde.display();
 
 
     }
