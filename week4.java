@@ -31,7 +31,7 @@ public class week4 {
        
 
       Conde.display();
-
+      
        
 
 
@@ -59,7 +59,7 @@ public class week4 {
 
        Magusib.display();
 
-
+       Bargaso.display();
 
 
     }
