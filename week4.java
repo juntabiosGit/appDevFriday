@@ -51,6 +51,8 @@ public class week4 {
        Villoso.display();
        Candilada.display();
 
+       Bobis.display();
+
 
 
 
