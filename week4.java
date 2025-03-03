@@ -52,7 +52,7 @@ public class week4 {
        Candilada.display();
 
 
-
+        Bolando.display();
 
 
             
