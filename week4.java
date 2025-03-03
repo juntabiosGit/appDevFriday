@@ -14,7 +14,7 @@ public class week4 {
          
        Taer.display();
 
-
+       Cangmaong.display();
 
        Suga.display();
 
