@@ -4,7 +4,8 @@ public class Week5 {
          System.out.println("WEEK 5\n");
         // Call each student's method
         // Add your method below
-        // Cruz.display(); 
+        // Cruz.display();
+        Delrosario.display(); 
         Taer.display();
         Diaz.display();
         Magusib.display();
