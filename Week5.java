@@ -9,7 +9,7 @@ public class Week5 {
         Diaz.display();
         Magusib.display();
         Palermo.display();
-   	    Mapula.display();	      
+    	Mapula.display();	      
         Conde.display();
         Candilada.display();
     	Saren.display();
@@ -19,6 +19,7 @@ public class Week5 {
         Apolonio.display();
         Geguiera.display();
         Bargaso.display();
+        Cangmaong.display();
 
     }
 }
