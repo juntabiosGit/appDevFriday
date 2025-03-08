@@ -6,6 +6,7 @@ public class Week5 {
         // Add your method below
         // Cruz.display(); 
         Taer.display();
+        Armiger.display();
         Diaz.display();
         Magusib.display();
         Palermo.display();
