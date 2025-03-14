@@ -12,3 +12,8 @@ public class Calculator {
         return a == b;
     }
 }
+//Group 3: Multiplication (Members : CondeMarwin, Bargaso, Apolonio, Alava, DeBelen, Servandil, Destajo, Valdez, Magusibg, Fabian, Briones)
+    public static int multiply(int a, int b) {
+        return a * b;
+    }
+}
