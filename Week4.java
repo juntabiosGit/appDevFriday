@@ -23,6 +23,7 @@ public class Week4 {
         Mangaoang.display();
         //Mapula.display();
         //Maravilla.display();
+	Montenegro.display();
         Oracion.display();
         Palermo.display();
         //Salcedo.display();
