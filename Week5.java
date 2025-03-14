@@ -14,6 +14,7 @@ public class Week5 {
         Candilada.display();
     	Saren.display();
         Maravilla.display();
+        Fabian.display();
         Servandil.display();        
         Benoya.display();
         Apolonio.display();
