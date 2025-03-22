@@ -14,7 +14,7 @@ public class Calculator {
         return a == b;
     } // <-- Properly closed the isEqual method
 
-    // Group 5: Modulus (Members: Cangmaong, Mendez, Palalay, Pablete, Ruel, Desoy)
+    // Group 5: Modulus (Members: Cangmaong, Palalay, Mendez, Pablete, Ruel, Desoy)
     public static int modulus(int a, int b) {
         return a % b;
     }
@@ -46,4 +46,3 @@ public static int square(int a) {
 }
 
 }  
-
