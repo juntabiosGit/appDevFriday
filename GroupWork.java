@@ -17,7 +17,7 @@ public class GroupWork {
         System.out.println(" (GROUP 10 Candilada, Villoso, Maravilla," + 
                         " Saren, Bolando, Agustin, Eugenio, Oracion, Bobis, Geguiera, Dionisio) ) Are they equal? " + Calculator.isEqual(num1, num2));  // Group 10's method
                         // Group 5: Modulus Method (Members: Cangmaong, Mendez, Palalay, Pablete, Ruel, Desoy, Montenegro)
-         System.out.println("(GROUP 5 - Cangmaong, Mendez, Palalay, Pablete, Ruel, Desoy, Montenegro) Remainder: " + Calculator.modulus(num1, num2));  // Group 5's method
+         System.out.println("(GROUP 5 - Cangmaong, Palalay, Mendez, Pablete, Ruel, Desoy, Montenegro) Remainder: " + Calculator.modulus(num1, num2));  // Group 5's method
 
         System.out.println(" (Group 3 De Belen, Magusib, M. Conde, Apolonio, Fabian, Servandil," +
         " Alava, Valdez, Briones, Destajo, Bargaso)) Multiply: " + Calculator.mul(num1, num2));  // Group 3's method
