@@ -45,5 +45,10 @@ public static int square(int a) {
     return a * a;
 }
 
+/* Group 7 method*/
+public static int cube(int a) {
+    return a * a * a;
+}
+
 }  
 

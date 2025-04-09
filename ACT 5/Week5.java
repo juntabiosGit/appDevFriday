@@ -53,6 +53,7 @@ public class Week5 {
         Mendez.display();
         Destajo.display();
         Cangmaong.display();
+        Mamang.display();
     }
 }
 
