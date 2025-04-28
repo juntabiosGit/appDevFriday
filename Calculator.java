@@ -45,5 +45,11 @@ public static int square(int a) {
     return a * a;
 }
 
+// Group 9: min (Members: Bolando)
+public static int min(int a, int b) {
+    return (a < b) ? a : b;
+}
+
+
 }  
 
